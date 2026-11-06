@@ -14,7 +14,7 @@
 - 📚 Dominando fundamentos de programación estructurada y lógica con **C** y **Python**.
 - 🗄️ Apasionado por el modelado relacional, gestión de bases de datos (**SQLite / MySQL**) y diseño de esquemas eficientes.
 - 🚀 Enfocado en transformar la teoría académica en herramientas y proyectos web funcionales.
-
+- 📚 Busco superarme constantemente y aprender con el tiempo.
 ---
 
 ### 🛠️ Tecnologías & Herramientas
@@ -49,15 +49,9 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanenrique03&show_icons=true&theme=radial&hide_border=true" alt="Iván GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanenrique03&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
 <div align="center">
-  <p><i>"El diseño correcto de los datos es la base de todo gran sistema."</i></p>
+  <p><i>"El exito es la suma de pequeños esfuerzos."</i></p>
 </div>
