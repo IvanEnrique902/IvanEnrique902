@@ -36,11 +36,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### Soporte Técnico & Administración de Sistemas 
-#### Me gusta encontrar la solucion a los problemas de las personas y ayudarlas.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![RustDesk](https://img.shields.io/badge/RustDesk-000000?style=for-the-badge&logo=rustdesk&logoColor=white)
 ![TeamViewer](https://img.shields.io/badge/TeamViewer-052962?style=for-the-badge&logo=teamviewer&logoColor=white)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF4438?style=for-the-badge&logo=anydesk&logoColor=white)
+
+#### Si alguna persona tiene algun problema, me gusta hallar la manera de solucionarla.
+
 ---
 
 ### 🌐 Proyectos Destacados
