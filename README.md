@@ -15,6 +15,7 @@
 - 📚 Dominando fundamentos de programación estructurada y lógica con **C** y **Python**.
 - 🗄️ Apasionado por el modelado relacional, gestión de bases de datos (**SQLite / MySQL**) y diseño de esquemas eficientes.
 - 🚀 Enfocado en transformar la teoría académica y el soporte técnico en soluciones de software funcionales.
+
 - 
 ### 🛠️ Tecnologías & Herramientas
 
@@ -34,7 +35,8 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-#### Soporte Técnico & Administración de Sistemas
+#### Soporte Técnico & Administración de Sistemas 
+#### Me gusta encontrar la solucion a los problemas de las personas y ayudarlas.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![RustDesk](https://img.shields.io/badge/RustDesk-000000?style=for-the-badge&logo=rustdesk&logoColor=white)
 ![TeamViewer](https://img.shields.io/badge/TeamViewer-052962?style=for-the-badge&logo=teamviewer&logoColor=white)
