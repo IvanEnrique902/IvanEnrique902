@@ -3,7 +3,7 @@
   <p><strong>Estudiante de Licenciatura en Sistemas de Información | IT Support Junior </strong></p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanenrique03/)
-  [![Website](https://ivanservicios.com.ar/)
+  [![Website](https://img.shields.io/badge/Website-Iván_Servicios-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ivanservicios.com.ar/)
 </div>
 
 ---
