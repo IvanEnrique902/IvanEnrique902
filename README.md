@@ -15,7 +15,7 @@
 - 🎧 Asistencia técnica y soporte remoto utilizando herramientas como **RustDesk**, **AnyDesk** y **TeamViewer**.
 - 📚 Dominando lógica y programación estructurada con **C** y **Python**.
 - 🗄️ Apasionado por la arquitectura de datos, el modelado relacional y la gestión de bases de datos (**SQLite / MySQL**).
-- 
+
 ---
 
 ### 🛠️ Tecnologías & Herramientas
@@ -23,8 +23,6 @@
 #### Programación & Análisis de Datos
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Bases de Datos & Web
