@@ -11,7 +11,7 @@
 ### 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de **Licenciatura en Sistemas de Información** (UNLu).
-- 💻 Fundador de **Iván Servicios**: Diagnóstico de hardware, instalación de SO, optimización de Windows/Linux y resolución de fallas de controladores.
+- 💻 Fundador de **Iván Servicios**: Diagnóstico de hardware, instalación de SO, optimización de Windows y resolución de fallas de controladores.
 - 🎧 Asistencia técnica y soporte remoto utilizando herramientas como **RustDesk**, **AnyDesk** y **TeamViewer**.
 - 📚 Dominando lógica y programación estructurada con **C** y **Python**.
 - 🗄️ Apasionado por la arquitectura de datos, el modelado relacional y la gestión de bases de datos (**SQLite / MySQL**).
