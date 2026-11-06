@@ -10,13 +10,12 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Estudiante universitario orientado a la **Arquitectura de Datos**, **Diseño de Bases de Datos** y **Desarrollo Backend**.
+- 🎓 Estudiante universitario de Sistemas orientado a la **Arquitectura de Datos**, **Desarrollo**, **Analisis** y **Servicios Tecnológicos**.
+- 🛠️ Experiencia práctica en **soporte técnico informático**, optimización de sistemas operativos (Windows) y asistencia remota.
 - 📚 Dominando fundamentos de programación estructurada y lógica con **C** y **Python**.
 - 🗄️ Apasionado por el modelado relacional, gestión de bases de datos (**SQLite / MySQL**) y diseño de esquemas eficientes.
-- 🚀 Enfocado en transformar la teoría académica en herramientas y proyectos web funcionales.
-- 📚 Busco superarme constantemente y aprender con el tiempo.
----
-
+- 🚀 Enfocado en transformar la teoría académica y el soporte técnico en soluciones de software funcionales.
+- 
 ### 🛠️ Tecnologías & Herramientas
 
 #### Lenguajes & Bases de Datos
@@ -33,9 +32,13 @@
 #### Entorno de Trabajo
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+#### Soporte Técnico & Administración de Sistemas
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![RustDesk](https://img.shields.io/badge/RustDesk-000000?style=for-the-badge&logo=rustdesk&logoColor=white)
+![TeamViewer](https://img.shields.io/badge/TeamViewer-052962?style=for-the-badge&logo=teamviewer&logoColor=white)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-EF4438?style=for-the-badge&logo=anydesk&logoColor=white)
 ---
 
 ### 🌐 Proyectos Destacados
@@ -47,10 +50,6 @@
 - 🌐 **[Sitio Web Personal](https://ivanservicios.com.ar/)**  
   Portal profesional de servicios informáticos y portfolio personal.
 
----
-
-
----
 
 <div align="center">
   <p><i>"El exito es la suma de pequeños esfuerzos."</i></p>
