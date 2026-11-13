@@ -55,6 +55,9 @@
   Aplicación web desplegada en Netlify para la gestión y seguimiento de números de rifas digitales.
 - 🌐 **[Iván Servicios Tecnológicos](https://ivanservicios.com.ar/)**  
   Sitio web oficial y portfolio de servicios de soporte técnico informático y soluciones digitales.
+- 🔍 **[ads.txt Analyzer](https://github.com/IvanEnrique902/ads-txt-analyzer)** *(Python / Tkinter)*  
+  Herramienta de AdOps con interfaz gráfica y modo terminal para analizar archivos **ads.txt** y **app-ads.txt**: cuenta líneas DIRECT vs RESELLER, detecta duplicados y conflictos, agrupa por plataforma y verifica los IDs contra el **sellers.json** de cada SSP. Exporta reportes a CSV y TXT.
+  
 
 ---
 
