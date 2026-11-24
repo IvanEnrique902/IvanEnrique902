@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Diego Iván Enrique 👋</h1>
-  <p><strong>Estudiante de Licenciatura en Sistemas de Información | IT Support Junior </strong></p>
+  <p><strong>Estudiante de Licenciatura en Sistemas de Información | AdOps & IT Support</strong></p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanenrique03/)
   [![Website](https://img.shields.io/badge/Website-Iván_Servicios-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ivanservicios.com.ar/)
@@ -11,9 +11,9 @@
 ### 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de **Licenciatura en Sistemas de Información** (UNLu).
-- 💻 Fundador de **Iván Servicios**: Diagnóstico de hardware, instalación de SO, optimización de Windows y resolución de fallas de controladores.
-- 🎧 Asistencia técnica y soporte remoto utilizando herramientas como **RustDesk**, **AnyDesk** y **TeamViewer**.
-- 📚 Dominando lógica y programación estructurada con **C** y **Python**.
+- 📈 Desarrollando herramientas de automatización y análisis para **AdTech & Programmatic Advertising** (auditoría de `ads.txt` / `sellers.json`, métricas de rendimiento y conciliación de discrepancias).
+- 💻 Fundador de **Iván Servicios**: Diagnóstico de hardware, instalación de SO, optimización de Windows y soporte técnico remoto (**RustDesk**, **AnyDesk**, **TeamViewer**).
+- 📚 Dominando lógica, programación estructurada y análisis de datos con **Python**, **C**, **Pandas** y **NumPy**.
 - 🗄️ Apasionado por la arquitectura de datos, el modelado relacional y la gestión de bases de datos (**SQLite / MySQL**).
 
 ---
@@ -21,8 +21,10 @@
 ### 🛠️ Tecnologías & Herramientas
 
 #### Programación & Análisis de Datos
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Bases de Datos & Web
@@ -47,20 +49,21 @@
 
 ### 🌐 Proyectos Destacados
 
-- 📊 **Conversor & Limpiador de Stock Excel** *(Python / Tkinter / Pandas / NumPy)*  
-  Aplicación de escritorio con interfaz gráfica en **Tkinter** para la limpieza y reestructuración de planillas de datos desordenadas, adaptándolas de forma automatizada al formato requerido para la importación en sistemas de gestión comercial (POS).
+- 📊 **[AdOps · Control Financiero](https://github.com/IvanEnrique902/AdsOps-Calculator)** *(Python / Tkinter)*  
+  Suite de escritorio para operaciones programáticas: calculadora de CPM/eCPM y márgenes (Bruto vs. Neto), comparador de fuentes de demanda con métricas completas de embudo (`Bid Rate`, `Win Rate`, `Render Rate`, `Fill Rate`, `eRPM Req.`), control de discrepancias con semáforo de alertas y exportación a CSV.
+- 🔍 **[ads.txt Analyzer](https://github.com/IvanEnrique902/ads-txt-analyzer)** *(Python / Tkinter)*  
+  Herramienta de AdOps con interfaz gráfica y modo terminal para auditar archivos **ads.txt** y **app-ads.txt**: clasifica líneas `DIRECT` vs `RESELLER`, detecta duplicados y conflictos, agrupa por SSP y valida los IDs contra el **sellers.json** de cada plataforma. Exporta reportes a CSV y TXT.
+- 📑 **Conversor & Limpiador de Stock Excel** *(Python / Tkinter / Pandas / NumPy)*  
+  Aplicación de escritorio para la limpieza y reestructuración automatizada de planillas desordenadas, adaptándolas al formato requerido por sistemas de gestión comercial (POS).
 - 📚 **BIL - Sistema de Librería Digital** *(SQLite / Python / Web)*  
   Aplicación web para catalogación de libros digitales. Diseño del modelo relacional en **SQLite** y gestión de metadatos.
 - 🎟️ **[Tu Rifa Digital](https://turifadigital.netlify.app/)** *(JavaScript / Web)*  
   Aplicación web desplegada en Netlify para la gestión y seguimiento de números de rifas digitales.
 - 🌐 **[Iván Servicios Tecnológicos](https://ivanservicios.com.ar/)**  
   Sitio web oficial y portfolio de servicios de soporte técnico informático y soluciones digitales.
-- 🔍 **[ads.txt Analyzer](https://github.com/IvanEnrique902/ads-txt-analyzer)** *(Python / Tkinter)*  
-  Herramienta de AdOps con interfaz gráfica y modo terminal para analizar archivos **ads.txt** y **app-ads.txt**: cuenta líneas DIRECT vs RESELLER, detecta duplicados y conflictos, agrupa por plataforma y verifica los IDs contra el **sellers.json** de cada SSP. Exporta reportes a CSV y TXT.
-  
 
 ---
 
 <div align="center">
-  <p><i>"El éxito es la suma de pequeños esfuerzos repetidos día tras día. "</i></p>
+  <p><i>"El éxito es la suma de pequeños esfuerzos repetidos día tras día."</i></p>
 </div>
