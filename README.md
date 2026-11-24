@@ -51,7 +51,7 @@
   Suite de escritorio para operaciones programáticas: calculadora de CPM/eCPM y márgenes (Bruto vs. Neto), comparador de fuentes de demanda con métricas completas de embudo (`Bid Rate`, `Win Rate`, `Render Rate`, `Fill Rate`, `eRPM Req.`), control de discrepancias con semáforo de alertas y exportación a CSV.
 - 🔍 **[ads.txt Analyzer](https://github.com/IvanEnrique902/ads-txt-analyzer)** *(Python / Tkinter)*  
   Herramienta de AdOps con interfaz gráfica y modo terminal para auditar archivos **ads.txt** y **app-ads.txt**: clasifica líneas `DIRECT` vs `RESELLER`, detecta duplicados y conflictos, agrupa por SSP y valida los IDs contra el **sellers.json** de cada plataforma. Exporta reportes a CSV y TXT.
-- 📑 **Conversor & Limpiador de Stock Excel** *(Python / Tkinter / Pandas / NumPy)*  
+- 📑 **[Conversor & Limpiador de Stock Excel](https://github.com/IvanEnrique902/TransformarExcel)** *(Python / Tkinter / Pandas / NumPy)*  
   Aplicación de escritorio para la limpieza y reestructuración automatizada de planillas desordenadas, adaptándolas al formato requerido por sistemas de gestión comercial (POS).
 - 📚 **BIL - Sistema de Librería Digital** *(SQLite / Python / Web)*  
   Aplicación web para catalogación de libros digitales. Diseño del modelo relacional en **SQLite** y gestión de metadatos.
